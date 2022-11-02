@@ -22,28 +22,29 @@ devOps|
  provided through submission.
  
   #**Use:**
- The report can be accessed at link: https://github.com/chriszeymar/CMPG-323-Project-4---34946039 by allowed users.
+ The report can be accessed at link: https://app.powerbi.com/links/aeyJlpsKuu?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare by allowed users.
  
 The reports provides a structured look. 
  
-  #**Steps to test solution:**
+  #**Steps to vie solution:**
   
-  1. Run Login activity to get access into domain.
+  - Open link provided.
   
-  2. Run Read/Write activity which confirms read by message box then populates the webApp
-  
-  3. Run Delete Activity reboot or format all 3 domains. Delete sequence works on as stack, with FIFO principple.
-  
-  4. Run Last sequence to update test result.
+
   
   **N.B** reports are based on the Excel dataset.
- 
- #**RPA orchestrator proof publish:** https://github.com/chriszeymar/CMPG-323-Project-4---34946039/blob/devOps/ConnectedOfficeWebApplication/cmpg321ProofPublish.jpg
- 
+  
 **Reports:**
 
+-High level metrics: Summarises the data set. see: https://github.com/chriszeymar/CMPG-323-Project-5---34946039/blob/main/High%20level%20metrics%20capture.jpg
+
+-Device Monitoring: This provides DSS on devices measures. see: https://github.com/chriszeymar/CMPG-323-Project-5---34946039/blob/main/Device%20monitoring%20capture.jpg
+
+-Device Registration metrics: The various relationships is observed. see: https://github.com/chriszeymar/CMPG-323-Project-5---34946039/blob/main/Dev_Reg%20Capture.jpg
+
+
 
  
-Additional method are provided as per the rubric. 
+Additional functions are provided as per the rubric. 
  
- **Open solution in UI studio then right click each activity then click on test this activity to test all automation proccesses**
+ **The report can be open with power BI desktop**
